@@ -1,6 +1,8 @@
 ### Welcome! 🎉
 
 My name is Alice.
+
+My portolfio consists of projects I had done in school and on the side. 
 <!--
 **alizay1/alizay1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
