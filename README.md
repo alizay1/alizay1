@@ -2,9 +2,7 @@
 
 ![beach](https://github.com/alizay1/alizay1/assets/101383537/b81e2d60-ef3e-46c9-b722-917fd5cc7af8)
 
-My name is Alice.
-
-My portolfio consists of projects I had done in school and on the side. 
+Hello, I'm Alice, a recent gradaute student! This portfilio showcases projects I have done in school and on the side. I have experience using R, SQL, Excel, and Python.
 <!--
 **alizay1/alizay1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
